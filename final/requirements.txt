@@ -1,0 +1,8 @@
+﻿dcor
+influxdb_client
+joblib
+matplotlib
+numpy
+pandas
+scikit-learn
+tensorflow
